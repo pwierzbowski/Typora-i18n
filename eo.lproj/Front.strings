@@ -7,7 +7,7 @@
 */
 
 /* Common */
-"OK" = "OK";
+"OK" = "Bone";
 "Cancel" = "Nuligi";
 "Yes" = "Jes";
 "No" = "Ne";
@@ -61,117 +61,117 @@
 "Switch to Outline view" = "Ŝanĝi la vidon al skemo";
 "Close sidebar" = "Fermi flankpanelon";
 "Loading" = "Ŝargado";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Zaznaczony folder zawiera zbyt dużo plików. \nPrzejdź do <a id='switch-to-tree-on-oversize'>widoku drzewa plików</a> w celu poprawienia wydajności.";
-"New File" = "Dova dosiero";
-"Unpin Outline Panel" = "Odepnij panel konspektu";
-"Open Folder..." = "Otwórz folder…";
-"Action" = "Działania"
-"Close Sidebar Menu" = "Zamknij menu panelu bocznego";
-"Reveal in Finder" = "Otwórz w Finderze";
-"Reveal in File Explorer" = "Otwórz w Eksploratorze plików";
-"Refresh Folder" = "Odśwież folder";
-"Sort" = "Sortuj";
-"Group By Folder" = "Grupuj według folderu";
-"Sort Naturally (Ascending)" = "Sortuj naturalnie (rosnąco)";
-"Sort Naturally (Descending)" = "Sortuj naturalnie (malejąco)";
-"Sort by Name (Ascending)" = "Sortuj według nazwy (rosnąco)";
-"Sort by Modification Date (Ascending)" = "Sortuj według daty modyfikacji (rosnąco)";
-"Sort by Name (Descending)" = "Sortuj według nazwy (malejąco)";
-"Sort by Modification Date (Descending)" = "Sortuj według daty modyfikacji (malejąco)";
-"Location" = "Położenie";
-"Switch File List/Tree View" = "Przejdź do listy plików/widoku drzewa";
-"No Files Available" = "Brak dostępnych plików";
-"No Folder is Opened." = "Żaden folder nie jest otwarty.";
-"Outline is Empty." = "Brak konspektu.";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Elektita dosierujo enhavas tro multajn dosierojn. \nPŜanĝu al la <a id='switch-to-tree-on-oversize'>vido de dosier-arbo</a> por pli bona rendimento.";
+"New File" = "Nova dosiero";
+"Unpin Outline Panel" = "Malfiksi konspekto-panelon";
+"Open Folder..." = "Malfermi dosierujon…";
+"Action" = "Agoj"
+"Close Sidebar Menu" = "Fermi flankpanelan menuon";
+"Reveal in Finder" = "Montri en Finder";
+"Reveal in File Explorer" = "Montri en dosier-foliumilo";
+"Refresh Folder" = "Refreŝigi dosierujon";
+"Sort" = "Ordigi";
+"Group By Folder" = "Grupigi laŭ dosierujo";
+"Sort Naturally (Ascending)" = "Ordigi nature (kreskante)";
+"Sort Naturally (Descending)" = "Ordigi nature (malkreskante)";
+"Sort by Name (Ascending)" = "Ordigi laŭ nomo (kreskante)";
+"Sort by Modification Date (Ascending)" = "Ordigi laŭ modifo-dato (kreskante)";
+"Sort by Name (Descending)" = "Ordigi laŭ nomo (malkreskante)";
+"Sort by Modification Date (Descending)" = "Ordigi laŭ modifo-dato (malkreskante)";
+"Location" = "Situo";
+"Switch File List/Tree View" = "Ŝanĝi inter la vido de dosier-listo/arbo ";
+"No Files Available" = "Mankas disponeblaj dosieroj";
+"No Folder is Opened." = "Neniu dosierujo estas malfermita.";
+"Outline is Empty." = "Mankas skemo.";
 
 /* Status Bar */
-"Toggle Sidebar" = "Aktywuj panel boczny";
-"Toggle Source Code Mode" = "Aktywuj tryb kodu źródłowego";
-"Exit Source Code Mode" = "Wyłącz tryb kodu źródłowego";
+"Toggle Sidebar" = "Aktivigi flankpanelon";
+"Toggle Source Code Mode" = "Aktivigi fontkodan modon";
+"Exit Source Code Mode" = "Malaktivigi fontkodan modon";
 
-"Table of Contents" = "Spis treści";
-"Empty Diagram" = "Pusty diagram";
-"Input Math TeX here" = "Wprowadź tutaj działanie matematyczne zgodne z TeX";
+"Table of Contents" = "Enhavtabelo";
+"Empty Diagram" = "Malplena diagramo";
+"Input Math TeX here" = "Enmeti TeX-matematikaĵon ĉi tien";
 
-"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Musisz zdefiniować odsyłacz do przypisu <b>{0}</b> ze składnią <a>[^{1}]: www.example.com</a>";
-"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Musisz zdefiniować odsyłacz do adresu <b>[{0}]</b> ze składnią <b>[{1}]: www.example.com</b>";
-"Please define image reference by \n[{0}]: http://example.png" = "Zdefiniuj odsyłacz do obrazu \n[{0}]: http://example.png";
+"Need to define the reference footnote <b>{0}</b> with syntax <a>[^{1}]: www.example.com</a>" = "Vi devas difini la referencan piednoton <b>{0}</b> kun la sintakso <a>[^{1}]: www.example.com</a>";
+"Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>" = "Vi devas difini la referencan ligilon <b>[{0}]</b> kun la sintakso <b>[{1}]: www.example.com</b>";
+"Please define image reference by \n[{0}]: http://example.png" = "Bonvolu difini bildo-referencon per \n[{0}]: http://example.png";
 
 /* msg */
-"Failed to create file" = "Nie udało się stworzyć pliku";
-"Failed to create folder" = "Nie udało się stworzyć folderu";
-"Failed to rename file" = "Nie udało się zmienić nazwy pliku";
-"Folder does not exist at %@" = "Nie ma takiego folderu w %@";
-"File with the same name already exists at target path" = "Plik o takiej samej nazwie istnieje w docelowej ścieżce";
-"Apply to All" = "Zastosuj dla wszystkich";
-"Overwrite" = "Zastąp";
-"Stop" = "Zatrzymaj";
-"back to document" = "Wróć do dokumentu";
-"Failed to load file" = "Nie udało się załadować pliku";
-"Save File Failed!" = "Nie udało się zapisać pliku!"
-"Cannot open folder {0}" = "Nie można otworzyć folderu {0}";
+"Failed to create file" = "Malfukcesa kreado de dosiero";
+"Failed to create folder" = "Malsukcesa kreado de dosierujo";
+"Failed to rename file" = "Malsukcesa alinomado de dosiero";
+"Folder does not exist at %@" = "Dosierujo ne ekzistas en %@";
+"File with the same name already exists at target path" = "Dosiero kun la sama nomo jam ekzistas sum la celata adreso";
+"Apply to All" = "Apliki por ĉiuj";
+"Overwrite" = "Anstataŭigi";
+"Stop" = "Haltigi";
+"back to document" = "reen al dokumento";
+"Failed to load file" = "Malsukcesa malfermado de dosiero";
+"Save File Failed!" = "Malsukcesa konservado de dosiero!"
+"Cannot open folder {0}" = "Ne eblas malfermi la dosierujon {0}";
 
-"File content is changed by external applications. Reload content from disk ?" = "Zawartość pliku jest modyfikowana przez inne aplikacje. Załadować ponownie zawartość z dysku?";
-"Should continue moving and overwrite exisiting file(s) ?" = "Kontynuować przenoszenie oraz zastępowanie istniejących plików?";
+"File content is changed by external applications. Reload content from disk ?" = "La dosier-enhavo estas modifata de eksteraj aplikaĵoj. Ĉu reŝargi la enhavon el disko?";
+"Should continue moving and overwrite exisiting file(s) ?" = "Ĉu daŭrigi transportado kaj anstataŭigadon de ekzistanta(j) dosiero(j)?";
 
-"Rename Failed" = "Zmiana nazwy nie powiodła się";
-"Failed to rename from \"{0}\" to \"{1}\"" = "Zmiana nazwy z \"{0}\" na \"{1}\" nie powiodła się";
+"Rename Failed" = "Malsukcesa alinomado";
+"Failed to rename from \"{0}\" to \"{1}\"" = "Malsukcesa alinomado el \"{0}\" al \"{1}\"";
 
 /* Image upload & move */
-"Successfully uploaded {0} images." = "Liczba przesłanych obrazów: {0}";
-"Failed to upload image. Error Message:" = "Nie udało się przesłać obrazu. Treść błędu:";
-"Failed to Copy Image to Target Folder." = "Nie udało się skopiować obrazu do docelowego folderu.";
-"Select Container Folder" = "Wybierz folder kontenera";
+"Successfully uploaded {0} images." = "Sukcese alŝutiĝis {0} bildo(j)";
+"Failed to upload image. Error Message:" = "Malsukcesa alŝutado de bildo. Erar-mesaĝo:";
+"Failed to Copy Image to Target Folder." = "Malsukcesa kopiado de bildo al celata dosierujo.";
+"Select Container Folder" = "Elekti enten-dosierujon";
 
-"Saved" = "Zapisano";
+"Saved" = "Konservita";
 
 /* place holder in find & replace input */
-"search text" = "tekst szukany";
-"replace with" = "zastąp tym";
+"search text" = "serĉata teksto";
+"replace with" = "anstataŭigi per";
 /* search option */
-"Case Sensitive" = "Wielkość liter";
-"Whole Word" = "Całe wyrazy";
+"Case Sensitive" = "Usklecodistingo";
+"Whole Word" = "Tutaj dosieroj";
 
-"input image URL" = "adres URL obrazu";
-"Select image from local file" = "Wybierz obraz z pliku lokalnego";
-"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Nie mogę otworzyć adresu <code>$1</code>. Czy chodziło o <a href='https://$3'>https://$2</a>?";
+"input image URL" = "URL-adreso de bildo";
+"Select image from local file" = "Elekti bildon el loka dosiero";
+"Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Mi ne povas malfermi la lokon <code>$1</code>. Ĉu vi celis <a href='https://$3'>https://$2</a>?";
 
-"select a language" = "wybierz język";
-"Finish Editing" = "Zakończ edycję";
+"select a language" = "elekti lingvon";
+"Finish Editing" = "Fini redaktadon";
 
-"Revert advanced setting file to default one ?" = "Przywrócić plik ustawień zaawansowanych do wartości domyślnych?";
+"Revert advanced setting file to default one ?" = "Ĉu malfari la dosieron de altnivelaj agordoj al defaŭlta stato?";
 
-"Select Spell Check Language" = "Wybierz język sprawdzania pisowni";
-"Auto Detect Language" = "Automatyczne wykrywanie języka";
-"Disable Spell Check" = "Wyłącz sprawdzanie pisowni";
-"Global Setting…" = "Ustawienia globalne…";
-"Dictionary file is missing to enable spellcheck support for %@." = "Brak pliku słownika do sprawdzania pisowni (język %@).";
-"Install Language Support" = "Zainstaluj obsługę języka";
-"License Information" = "Informacje licencyjne";
-"Download" = "Pobierz";
-"Install dictionary file only for Typora" = "Zainstaluj plik słownika tylko dla Typory";
-"Spell Check (%@ unavailable)" = "Sprawdzanie pisowni (%@ niedostępny)";
-"Spell Check (%@ downloading)" = "Sprawdzanie pisowni (%@ pobierany)";
-"Download dictionary file for %@" = "Pobierz plik słownika (język %@)";
-"(Default spell check option)" = "(domyślna opcja sprawdzania pisowni)";
-"Failed to load spellcheck module" = "Załadowanie modułu sprawdzania pisowni nie powiodło się";
+"Select Spell Check Language" = "Elekti lingvon de literumilo";
+"Auto Detect Language" = "Aŭtomate detekti lingvon";
+"Disable Spell Check" = "Malŝalti literumilon";
+"Global Setting…" = "Ĝenerala agordo…";
+"Dictionary file is missing to enable spellcheck support for %@." = "Mankas vortaro-dosiero por ebligi literumadon de la lingvo %@.";
+"Install Language Support" = "Instali lingvo-subtenon";
+"License Information" = "Informoj pri permesilo";
+"Download" = "Elŝuti";
+"Install dictionary file only for Typora" = "Instali vortaro-dosieron nur por Typora";
+"Spell Check (%@ unavailable)" = "Literumilo (%@ nedisponebla)";
+"Spell Check (%@ downloading)" = "Literumilo (%@ elŝutata)";
+"Download dictionary file for %@" = "Elŝuti vortaro-dosieron (lingvo %@)";
+"(Default spell check option)" = "(Defaŭlta opcio de literumilo)";
+"Failed to load spellcheck module" = "Malsukcesa malfermado de literumilo-modulo";
 
-"<strong>%@</strong> has been turned on." = "<strong>%@</strong> został włączony.";
-"You could turn it off from `View` menu." = "Możesz go wyłączyć w menu `Widok`.";
-"The file is too large to render in Typora." = "Plik jest zbyt duży dla Typory.";
-"Open in…" = "Otwórz w…";
-"Quick Look" = "Szybki podgląd";
+"<strong>%@</strong> has been turned on." = "<strong>%@</strong> estas ŝaltita.";
+"You could turn it off from `View` menu." = "Vi povas fermi ĝin en la menuo `Vido`.";
+"The file is too large to render in Typora." = "La dosiero estas tro granda por vidigi ĝin en Typora.";
+"Open in…" = "Malfermi en…";
+"Quick Look" = "Rapida alrigardo";
 
-"Filter" = "Filtruj";
-"No result found." = "Brak wyników.";
-"Continue & Overwrite" = "Kontynuuj i zastąp";
-"The file is read-only, or you do not have right permissions to modify the file." = "Plik jest tylko do odczytu bądź nie masz uprawnień do modyfikacji jego zawartości.";
+"Filter" = "Filtri";
+"No result found." = "Rezulto ne trovita.";
+"Continue & Overwrite" = "Daŭrigi kaj anstataŭigi";
+"The file is read-only, or you do not have right permissions to modify the file." = "La dosiero estas nur-lega, aŭ vi ne havas la rajton modifi ĝin.";
 
-"Learn Data Recovery" = "Dowiedz się o odzyskiwaniu danych";
-"Auto refresh on Files Panel cannot be enabled." = "Nie można włączyć automatycznego odświeżania w panelu plików.";
-"Delete Permanently" = "Usuń bezpowrotnie";
+"Learn Data Recovery" = "Ekscii pri datum-restaŭro";
+"Auto refresh on Files Panel cannot be enabled." = "Ne eblas ŝalti aŭtomatan refreŝiĝon de dosier-panelo.";
+"Delete Permanently" = "Forigi por ĉiam";
 
 
-"Failed to upload images:" = "Nieudane przesyłanie plików:";
-"Uploading in progress" = "Przesyłanie w toku";
-"Successfully uploaded {0} images, {1} failed." = "Obrazy przesłane: {0}, nie przesłano: {1}.";
+"Failed to upload images:" = "Malsukcesa alŝutado de bildoj:";
+"Uploading in progress" = "Okazas alŝutado";
+"Successfully uploaded {0} images, {1} failed." = "Sukcese malŝutiĝis {0} bildo(j), malsukcese: {1}.";
